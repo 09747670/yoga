@@ -115,8 +115,7 @@ window.addEventListener('DOMContentLoaded', function(){
             elem.style.cssText = param;
         } 
     }
-    const item = new Options(300, 350, "red", 14, "center");
-    item.createDiv();
+    
 
     //____Form______
 
